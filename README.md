@@ -4,7 +4,7 @@ As a result, I wrote a decision memo addressing model dependency, invalid assu
 
 We are replicating, critiquing, and extending the results of Charnysh, V., & Finkel, E. (2017, August 10). The Death Camp Eldorado: Political and Economic Effects of Mass Violence | American Political Science Review. Retrieved April 24, 2019, from https://www.cambridge.org/core/journals/american-political-science-review/article/death-camp-eldorado-political-and-economic-effects-of-mass-violence/EF9175FAD1AE5302FFAF5169891E7A98. 
 
-My paper (decision memo) can be found at: https://drive.google.com/open?id=1OOPaqrapvLIHpGDv655wWSiQKqIPxvAc
+My paper (decision memo) can be found at: https://drive.google.com/open?id=1IAuRis4WUFYuZbJIbUrKPdyr4gfHNHKg
 
 This repo includes: 
 - Replicate.R: Replicate the paper's findings 
